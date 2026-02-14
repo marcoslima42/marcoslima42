@@ -1,6 +1,8 @@
-- Opa! Tudo bem?
-- Atualmente estudo programação, em específico C para estrutura de dados. Até então estou no processo de solidificar a lógica de programação, com planos para C# junto ao .NET
+# Opa! Tudo bem?
 
-- Estou cursando engenharia de computação.
+Sou estudante de **Engenharia de Computação**.
 
+Atualmente, meu foco é **C/C++** e **Estrutura de Dados**. Gosto de entender como as coisas funcionam "por baixo dos panos", o que me levou também à **programação competitiva**.
+
+Meus planos futuros são seguir carreira na área de **Dados e Inteligência Artificial**.
 
